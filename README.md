@@ -1,10 +1,10 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
    <div id="badges">
-     <a href="your-linkedin-URL">
+     <a href="https://www.linkedin.com/in/ojasvi-soni/">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-      <a href="your-instagram-URL">
+      <a href="https://www.instagram.com/ojasvi20soni/">
         <img src="https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
       </a>
    </div>

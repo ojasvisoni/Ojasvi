@@ -19,8 +19,9 @@
 
 ### :woman_technologist: About Me :
 I am pursuing a master's degree in Computer Science from University of Florida, USA.
+Current GPA: 3.77/4.0
 - :telescope: I’m working as a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and contributing to the CLAS websites of University of Florida.
-- :seedling: I'm currently learning full-stack developement.
+- :seedling: I'm currently learning full-stack web developement.
 - :female_detective: Exploring Technical Content Writing.
 - :eyes: I’m looking to collaborate on anything opensourced.
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.

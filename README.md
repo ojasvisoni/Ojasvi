@@ -18,8 +18,9 @@
  ---
 
 ### :woman_technologist: About Me :
-I am pursuing a master's degree in Computer Science from University of Florida, USA.
-Current GPA: 3.77/4.0
+I am pursuing a master's degree in Computer Science from University of Florida, USA. 
+ #####
+ Current GPA: 3.77/4.0
 - :telescope: I’m working as a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and contributing to the CLAS websites of University of Florida.
 - :seedling: I'm currently learning full-stack web developement.
 - :female_detective: Exploring Technical Content Writing.
